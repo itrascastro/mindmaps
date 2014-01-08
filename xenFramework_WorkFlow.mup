@@ -1,0 +1,107 @@
+{
+  "title": "xenFramework_WorkFlow",
+  "id": 1,
+  "formatVersion": 2,
+  "ideas": {
+    "1": {
+      "title": "index.php",
+      "id": 2,
+      "ideas": {
+        "1": {
+          "title": "Application",
+          "id": 4,
+          "attr": {
+            "style": {
+              "background": "#E0E0E0"
+            }
+          },
+          "ideas": {
+            "1": {
+              "title": "Bootstrap",
+              "id": 5,
+              "ideas": {
+                "1": {
+                  "title": "Resource",
+                  "id": 7,
+                  "ideas": {
+                    "1": {
+                      "title": "Config",
+                      "id": 16
+                    },
+                    "2": {
+                      "title": "ViewHelperBroker",
+                      "id": 17
+                    },
+                    "3": {
+                      "title": "ActionHelperBroker",
+                      "id": 18,
+                      "ideas": {}
+                    },
+                    "4": {
+                      "title": "Database",
+                      "id": 20
+                    },
+                    "5": {
+                      "title": "Layout",
+                      "id": 21
+                    },
+                    "6": {
+                      "title": "View",
+                      "id": 22
+                    }
+                  }
+                },
+                "2": {
+                  "title": "_initResource",
+                  "id": 8
+                }
+              }
+            },
+            "2": {
+              "title": "FrontController",
+              "id": 6,
+              "ideas": {
+                "1": {
+                  "title": "Bootstrap dependency",
+                  "id": 9
+                },
+                "2": {
+                  "title": "route()",
+                  "id": 10,
+                  "ideas": {
+                    "1": {
+                      "title": "Controller/Action",
+                      "id": 11,
+                      "ideas": {
+                        "1": {
+                          "title": "Model",
+                          "id": 12
+                        },
+                        "2": {
+                          "title": "View",
+                          "id": 13
+                        },
+                        "1.5": {
+                          "title": "Layout",
+                          "id": 14
+                        },
+                        "0.5": {
+                          "title": "Bootstrap injected from FrontController",
+                          "id": 15
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "0.5": {
+      "title": ".htaccess",
+      "id": 3
+    }
+  }
+}
