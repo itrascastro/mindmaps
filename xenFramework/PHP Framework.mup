@@ -1,0 +1,30 @@
+{
+  "title": "PHP Framework",
+  "id": 1,
+  "formatVersion": 2,
+  "ideas": {
+    "1": {
+      "title": "mvc",
+      "id": 2
+    },
+    "2": {
+      "title": "extensibility",
+      "id": 4,
+      "ideas": {
+        "1": {
+          "title": "events",
+          "id": 5
+        }
+      }
+    },
+    "-1": {
+      "title": "cache",
+      "id": 3
+    },
+    "-2": {
+      "title": "Dependency Inyection Container",
+      "id": 6
+    }
+  },
+  "links": []
+}
