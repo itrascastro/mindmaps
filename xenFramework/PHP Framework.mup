@@ -5,15 +5,51 @@
   "ideas": {
     "1": {
       "title": "mvc",
-      "id": 2
+      "id": 2,
+      "ideas": {
+        "1": {
+          "title": "views",
+          "id": 17
+        },
+        "2": {
+          "title": "controllers",
+          "id": 18
+        }
+      }
     },
     "2": {
       "title": "extensibility",
       "id": 4,
       "ideas": {
-        "1": {
-          "title": "events",
-          "id": 5
+        "2": {
+          "title": "Observer Design Pattern",
+          "id": 13,
+          "ideas": {
+            "1": {
+              "title": "EventDispatcher",
+              "id": 14,
+              "ideas": {
+                "1": {
+                  "title": "events",
+                  "id": 5,
+                  "attr": {
+                    "style": {
+                      "background": "#E0E0E0"
+                    }
+                  }
+                },
+                "2": {
+                  "title": "Listeners",
+                  "id": 15
+                }
+              }
+            }
+          }
+        }
+      },
+      "attr": {
+        "style": {
+          "background": "#00ffff"
         }
       }
     },
@@ -25,13 +61,27 @@
       "title": "Bootstrap",
       "id": 10
     },
+    "5": {
+      "title": "Unit Testing",
+      "id": 12
+    },
     "-1": {
       "title": "cache",
-      "id": 3
+      "id": 3,
+      "attr": {
+        "style": {
+          "background": "#ff9900"
+        }
+      }
     },
     "-2": {
       "title": "Dependency Inyection Container",
-      "id": 6
+      "id": 6,
+      "attr": {
+        "style": {
+          "background": "#99cc00"
+        }
+      }
     },
     "-3": {
       "title": "FrontController",
@@ -42,6 +92,14 @@
           "id": 9
         }
       }
+    },
+    "-4": {
+      "title": "namespaces",
+      "id": 11
+    },
+    "-5": {
+      "title": "Custom Error Messages",
+      "id": 16
     }
   },
   "links": []
