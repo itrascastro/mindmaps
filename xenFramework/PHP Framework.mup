@@ -22,7 +22,7 @@
       "id": 4,
       "ideas": {
         "2": {
-          "title": "Observer Design Pattern",
+          "title": "Observer/Mediator Design Pattern",
           "id": 13,
           "ideas": {
             "1": {
