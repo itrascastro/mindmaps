@@ -1,0 +1,256 @@
+{
+  "title": "xenFramework",
+  "id": 1,
+  "formatVersion": 2,
+  "ideas": {
+    "1": {
+      "title": "application",
+      "id": 2,
+      "ideas": {
+        "1": {
+          "title": "configs",
+          "id": 30,
+          "ideas": {
+            "1": {
+              "title": "application.ini",
+              "id": 31
+            },
+            "2": {
+              "title": "db.ini",
+              "id": 32
+            }
+          }
+        },
+        "2": {
+          "title": "layouts",
+          "id": 36,
+          "ideas": {
+            "1": {
+              "title": "default",
+              "id": 38,
+              "ideas": {
+                "1": {
+                  "title": "header.phtml",
+                  "id": 39
+                },
+                "2": {
+                  "title": "layout.phtml",
+                  "id": 41
+                },
+                "3": {
+                  "title": "footer.phtml",
+                  "id": 42
+                }
+              }
+            }
+          }
+        },
+        "3": {
+          "title": "models",
+          "id": 43
+        },
+        "4": {
+          "title": "controllers",
+          "id": 44,
+          "ideas": {
+            "1": {
+              "title": "IndexController.php",
+              "id": 45
+            }
+          }
+        },
+        "5": {
+          "title": "views",
+          "id": 46,
+          "ideas": {
+            "2": {
+              "title": "helpers",
+              "id": 56
+            },
+            "3": {
+              "title": "scripts",
+              "id": 57,
+              "ideas": {
+                "1": {
+                  "title": "index",
+                  "id": 47,
+                  "ideas": {
+                    "1": {
+                      "title": "index.phtml",
+                      "id": 48
+                    }
+                  },
+                  "attr": {
+                    "style": {
+                      "background": "#E0E0E0"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "0.5": {
+          "title": "bootstrap",
+          "id": 34,
+          "ideas": {
+            "1": {
+              "title": "bootstrap.php",
+              "id": 35
+            }
+          }
+        }
+      }
+    },
+    "2": {
+      "title": "public",
+      "id": 49,
+      "ideas": {
+        "1": {
+          "title": "css",
+          "id": 50
+        },
+        "2": {
+          "title": "js",
+          "id": 51
+        },
+        "3": {
+          "title": "images",
+          "id": 52
+        },
+        "4": {
+          "title": ".htaccess",
+          "id": 53
+        },
+        "5": {
+          "title": "index.php",
+          "id": 54
+        },
+        "6": {
+          "title": "robots.txt",
+          "id": 55
+        }
+      }
+    },
+    "-1": {
+      "title": "vendor",
+      "id": 3,
+      "ideas": {
+        "1": {
+          "title": "xen",
+          "id": 4,
+          "ideas": {
+            "1": {
+              "title": "application",
+              "id": 6,
+              "ideas": {
+                "1": {
+                  "title": "bootstrap",
+                  "id": 10,
+                  "ideas": {
+                    "1": {
+                      "title": "Bootstrap.php",
+                      "id": 11
+                    },
+                    "2": {
+                      "title": "Autoloader.php",
+                      "id": 12
+                    }
+                  }
+                },
+                "2": {
+                  "title": "Application.php",
+                  "id": 13
+                },
+                "3": {
+                  "title": "FrontController",
+                  "id": 14
+                }
+              }
+            },
+            "2": {
+              "title": "config",
+              "id": 7,
+              "ideas": {
+                "1": {
+                  "title": "Config.php",
+                  "id": 15
+                },
+                "2": {
+                  "title": "Ini.php",
+                  "id": 16
+                },
+                "3": {
+                  "title": "Xml.php",
+                  "id": 17
+                }
+              }
+            },
+            "3": {
+              "title": "db",
+              "id": 8,
+              "ideas": {
+                "1": {
+                  "title": "Adapter.php",
+                  "id": 18
+                }
+              }
+            },
+            "4": {
+              "title": "mvc",
+              "id": 9,
+              "ideas": {
+                "1": {
+                  "title": "helpers",
+                  "id": 19,
+                  "ideas": {
+                    "1": {
+                      "title": "viewHelpers",
+                      "id": 25
+                    },
+                    "2": {
+                      "title": "actionHelpers",
+                      "id": 26,
+                      "ideas": {
+                        "1": {
+                          "title": "Redirector.php",
+                          "id": 29
+                        }
+                      }
+                    },
+                    "3": {
+                      "title": "ViewHelper.php",
+                      "id": 27
+                    },
+                    "4": {
+                      "title": "HelperBroker.php",
+                      "id": 28
+                    }
+                  }
+                },
+                "2": {
+                  "title": "view",
+                  "id": 20,
+                  "ideas": {
+                    "1": {
+                      "title": "Phtml.php",
+                      "id": 22
+                    },
+                    "2": {
+                      "title": "View.php",
+                      "id": 23
+                    }
+                  }
+                },
+                "3": {
+                  "title": "Controller.php",
+                  "id": 21
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
