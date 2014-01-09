@@ -18,7 +18,7 @@
       }
     },
     "2": {
-      "title": "extensibility",
+      "title": "extensibility/Plugable",
       "id": 4,
       "ideas": {
         "2": {
