@@ -17,6 +17,14 @@
         }
       }
     },
+    "3": {
+      "title": "Autoload",
+      "id": 7
+    },
+    "4": {
+      "title": "Bootstrap",
+      "id": 10
+    },
     "-1": {
       "title": "cache",
       "id": 3
@@ -24,6 +32,16 @@
     "-2": {
       "title": "Dependency Inyection Container",
       "id": 6
+    },
+    "-3": {
+      "title": "FrontController",
+      "id": 8,
+      "ideas": {
+        "1": {
+          "title": "router",
+          "id": 9
+        }
+      }
     }
   },
   "links": []
