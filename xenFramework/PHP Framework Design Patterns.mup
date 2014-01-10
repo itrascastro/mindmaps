@@ -1,0 +1,31 @@
+{
+  "title": "PHP Framework Design Patterns",
+  "id": 1,
+  "formatVersion": 2,
+  "ideas": {
+    "1": {
+      "title": "MVC",
+      "id": 2
+    },
+    "2": {
+      "title": "Dependency Injection Container",
+      "id": 4
+    },
+    "3": {
+      "title": "Factory",
+      "id": 6
+    },
+    "-1": {
+      "title": "FrontController",
+      "id": 3
+    },
+    "-2": {
+      "title": "Mediator",
+      "id": 5
+    },
+    "-3": {
+      "title": "IoC",
+      "id": 7
+    }
+  }
+}
