@@ -15,6 +15,94 @@
       "title": "Factory",
       "id": 6
     },
+    "4": {
+      "title": "Observer",
+      "id": 8,
+      "ideas": {
+        "1": {
+          "title": "Definition",
+          "id": 9,
+          "ideas": {
+            "1": {
+              "title": "Multiple objects are notified of changes to a single object",
+              "id": 15
+            }
+          }
+        },
+        "2": {
+          "title": "Implementation https://gist.github.com/itrascastro/8348785",
+          "id": 11
+        },
+        "3": {
+          "title": "Useful when",
+          "id": 12,
+          "ideas": {
+            "1": {
+              "title": "You want to bind the state of an object to the state of another object.",
+              "id": 13,
+              "ideas": {
+                "1": {
+                  "title": "A view observes a model",
+                  "id": 14
+                }
+              }
+            },
+            "2": {
+              "title": "Plug-able system",
+              "id": 21,
+              "ideas": {
+                "1": {
+                  "title": "Classes that generate events",
+                  "id": 22
+                },
+                "2": {
+                  "title": "Subjet wich is updated when a new event is triggered",
+                  "id": 23
+                },
+                "3": {
+                  "title": "Observers which are updated when a new event is triggered",
+                  "id": 24
+                }
+              }
+            }
+          }
+        },
+        "4": {
+          "title": "Notes",
+          "id": 17,
+          "ideas": {
+            "1": {
+              "title": "There is a moderated coupling between the Subject and the Observer classes because they call methods on each other",
+              "id": 18
+            },
+            "2": {
+              "title": "Every listener need would need to bind to the object instance that it want to track",
+              "id": 19
+            },
+            "3": {
+              "title": "The Subject does not pass along information about the cause of the update ",
+              "id": 20
+            },
+            "4": {
+              "title": "Every object that can trigger an event must be bound to the Subject separately",
+              "id": 25,
+              "ideas": {
+                "1": {
+                  "title": "In the example every journalist has to be bound to the newspaper",
+                  "id": 26,
+                  "ideas": {}
+                }
+              }
+            }
+          }
+        }
+      },
+      "attr": {
+        "style": {
+          "background": "#00ffff"
+        }
+      }
+    },
     "-1": {
       "title": "FrontController",
       "id": 3
@@ -27,5 +115,6 @@
       "title": "IoC",
       "id": 7
     }
-  }
+  },
+  "links": []
 }
