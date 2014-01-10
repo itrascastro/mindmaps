@@ -27,6 +27,12 @@
               "title": "Multiple objects are notified of changes to a single object",
               "id": 15
             }
+          },
+          "attr": {
+            "collapsed": true,
+            "style": {
+              "background": "#E0E0E0"
+            }
           }
         },
         "2": {
@@ -44,6 +50,12 @@
                 "1": {
                   "title": "A view observes a model",
                   "id": 14
+                }
+              },
+              "attr": {
+                "collapsed": true,
+                "style": {
+                  "background": "#E0E0E0"
                 }
               }
             },
@@ -63,7 +75,19 @@
                   "title": "Observers which are updated when a new event is triggered",
                   "id": 24
                 }
+              },
+              "attr": {
+                "collapsed": true,
+                "style": {
+                  "background": "#E0E0E0"
+                }
               }
+            }
+          },
+          "attr": {
+            "collapsed": true,
+            "style": {
+              "background": "#E0E0E0"
             }
           }
         },
@@ -92,7 +116,19 @@
                   "id": 26,
                   "ideas": {}
                 }
+              },
+              "attr": {
+                "collapsed": true,
+                "style": {
+                  "background": "#E0E0E0"
+                }
               }
+            }
+          },
+          "attr": {
+            "collapsed": true,
+            "style": {
+              "background": "#E0E0E0"
             }
           }
         }
