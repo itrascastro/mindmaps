@@ -194,6 +194,12 @@
               "title": "A object that encapsulates how a set of objects interact",
               "id": 26
             }
+          },
+          "attr": {
+            "collapsed": true,
+            "style": {
+              "background": "#E0E0E0"
+            }
           }
         },
         "2": {
@@ -231,6 +237,12 @@
                           "title": "Defines an interface for communicate with colleagues objects",
                           "id": 46
                         }
+                      },
+                      "attr": {
+                        "collapsed": true,
+                        "style": {
+                          "background": "#E0E0E0"
+                        }
                       }
                     },
                     "2": {
@@ -239,7 +251,8 @@
                       "attr": {
                         "style": {
                           "background": "#E0E0E0"
-                        }
+                        },
+                        "collapsed": true
                       },
                       "ideas": {
                         "1": {
@@ -260,7 +273,19 @@
                           "title": "A colleague will establish a communication with the mediator if he wants to communicate with another colleague",
                           "id": 49
                         }
+                      },
+                      "attr": {
+                        "collapsed": true,
+                        "style": {
+                          "background": "#E0E0E0"
+                        }
                       }
+                    }
+                  },
+                  "attr": {
+                    "collapsed": true,
+                    "style": {
+                      "background": "#E0E0E0"
                     }
                   }
                 },
@@ -281,9 +306,27 @@
                       "title": "Mediator pattern -- Real World example http://www.dofactory.com/Patterns/PatternMediator.aspx#_self2",
                       "id": 53
                     }
+                  },
+                  "attr": {
+                    "collapsed": true,
+                    "style": {
+                      "background": "#E0E0E0"
+                    }
                   }
                 }
+              },
+              "attr": {
+                "collapsed": true,
+                "style": {
+                  "background": "#E0E0E0"
+                }
               }
+            }
+          },
+          "attr": {
+            "collapsed": true,
+            "style": {
+              "background": "#E0E0E0"
             }
           }
         },
@@ -294,6 +337,12 @@
             "1": {
               "title": "You have different objects that can communicate to each other but they do not have explicit references to each other",
               "id": 31
+            }
+          },
+          "attr": {
+            "collapsed": true,
+            "style": {
+              "background": "#E0E0E0"
             }
           }
         },
@@ -322,6 +371,12 @@
               "title": "Good alternative to Observer if we have a central intelligence like a Controller (not in the sense of MV)",
               "id": 39
             }
+          },
+          "attr": {
+            "collapsed": true,
+            "style": {
+              "background": "#E0E0E0"
+            }
           }
         },
         "6": {
@@ -331,6 +386,12 @@
             "1": {
               "title": "Give a coupled code to deacouple it",
               "id": 41
+            }
+          },
+          "attr": {
+            "collapsed": true,
+            "style": {
+              "background": "#E0E0E0"
             }
           }
         },
@@ -348,6 +409,12 @@
               "position": "top"
             }
           }
+        }
+      },
+      "attr": {
+        "collapsed": true,
+        "style": {
+          "background": "#E0E0E0"
         }
       }
     }
