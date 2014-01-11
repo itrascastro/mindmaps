@@ -211,7 +211,65 @@
         },
         "3": {
           "title": "Implementation",
-          "id": 29
+          "id": 29,
+          "ideas": {
+            "1": {
+              "title": "Chatroom",
+              "id": 42,
+              "ideas": {
+                "1": {
+                  "title": "Components",
+                  "id": 43,
+                  "ideas": {
+                    "1": {
+                      "title": "Mediator IChatroom",
+                      "id": 45,
+                      "ideas": {
+                        "1": {
+                          "title": "Defines an interface for communicate with colleagues objects",
+                          "id": 46
+                        }
+                      }
+                    },
+                    "2": {
+                      "title": "Concrete Mediator",
+                      "id": 47,
+                      "attr": {
+                        "style": {
+                          "background": "#E0E0E0"
+                        }
+                      }
+                    },
+                    "3": {
+                      "title": "Colleagues",
+                      "id": 48,
+                      "ideas": {
+                        "1": {
+                          "title": "A colleague will establish a communication with the mediator if he wants to communicate with another colleague",
+                          "id": 49
+                        }
+                      }
+                    }
+                  }
+                },
+                "2": {
+                  "title": "Code",
+                  "id": 44,
+                  "ideas": {
+                    "1": {
+                      "title": "This is the practice!",
+                      "id": 50,
+                      "attr": {
+                        "style": {
+                          "background": "#ff0000"
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
         },
         "4": {
           "title": "Useful when",
@@ -239,6 +297,24 @@
             "3": {
               "title": "Promotes loose coupling between the objects in a communication",
               "id": 36
+            },
+            "4": {
+              "title": "A good friend is better than many",
+              "id": 38
+            },
+            "5": {
+              "title": "Good alternative to Observer if we have a central intelligence like a Controller (not in the sense of MV)",
+              "id": 39
+            }
+          }
+        },
+        "6": {
+          "title": "Practice",
+          "id": 40,
+          "ideas": {
+            "1": {
+              "title": "Give a coupled code to deacouple it",
+              "id": 41
             }
           }
         },
