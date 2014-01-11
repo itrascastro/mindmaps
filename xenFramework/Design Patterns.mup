@@ -8,7 +8,8 @@
       "attr": {
         "style": {
           "background": "transparent"
-        }
+        },
+        "collapsed": true
       },
       "ideas": {
         "1": {
@@ -167,7 +168,8 @@
           "attr": {
             "style": {
               "background": "#E0E0E0"
-            }
+            },
+            "collapsed": true
           },
           "ideas": {
             "1": {
@@ -274,6 +276,10 @@
                           "background": "#ff0000"
                         }
                       }
+                    },
+                    "2": {
+                      "title": "Mediator pattern -- Real World example http://www.dofactory.com/Patterns/PatternMediator.aspx#_self2",
+                      "id": 53
                     }
                   }
                 }
