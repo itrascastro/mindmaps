@@ -238,6 +238,16 @@
                         "style": {
                           "background": "#E0E0E0"
                         }
+                      },
+                      "ideas": {
+                        "1": {
+                          "title": "Implements cooperative behavior",
+                          "id": 51
+                        },
+                        "2": {
+                          "title": "Knows and maintains its colleagues",
+                          "id": 52
+                        }
                       }
                     },
                     "3": {
