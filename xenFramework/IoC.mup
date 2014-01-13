@@ -46,6 +46,10 @@
         "2": {
           "title": "Service Locator vs Dependency Injection Container (or Tell, Don't Ask Part 2) http://adamcod.es/2013/11/25/service-locator-vs-dependency-injection-container.html",
           "id": 16
+        },
+        "3": {
+          "title": "PHP dependency strategies: dependency injection and service locator http://www.davegardner.me.uk/blog/2009/11/23/php-dependency-strategies-dependency-injection-and-service-locator/",
+          "id": 17
         }
       }
     },
