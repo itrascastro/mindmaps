@@ -1,0 +1,148 @@
+{
+  "title": "CISCO DISCOVERY",
+  "id": 1,
+  "formatVersion": 2,
+  "ideas": {
+    "1": {
+      "title": "Modulo 3",
+      "id": 2,
+      "ideas": {
+        "1": {
+          "title": "1. Networking en la empresa",
+          "id": 4,
+          "ideas": {
+            "3": {
+              "title": "Teoria",
+              "id": 22,
+              "ideas": {
+                "1": {
+                  "title": "Diseño de la red",
+                  "id": 6,
+                  "ideas": {
+                    "1": {
+                      "title": "Rutas redundantes para evitar puntos de falla",
+                      "id": 5,
+                      "attr": {
+                        "style": {
+                          "background": "#E0E0E0"
+                        }
+                      },
+                      "ideas": {}
+                    },
+                    "2": {
+                      "title": "Optimización del uso del ancho de banda",
+                      "id": 8,
+                      "ideas": {
+                        "1": {
+                          "title": "Evitar que el tráfico se propague a partes innecesarias",
+                          "id": 11,
+                          "ideas": {
+                            "1": {
+                              "title": "Diseño jerarquico",
+                              "id": 12,
+                              "ideas": {
+                                "1": {
+                                  "title": "Capa de acceso",
+                                  "id": 13,
+                                  "ideas": {
+                                    "1": {
+                                      "title": "Conectividad a los usuarios",
+                                      "id": 17,
+                                      "ideas": {
+                                        "1": {
+                                          "title": "Switches",
+                                          "id": 21
+                                        }
+                                      }
+                                    }
+                                  }
+                                },
+                                "2": {
+                                  "title": "Capa de distribucion",
+                                  "id": 14,
+                                  "ideas": {
+                                    "1": {
+                                      "title": "Trafico entre redes locales",
+                                      "id": 16,
+                                      "ideas": {
+                                        "1": {
+                                          "title": "Switches y Routers más eficaces que en la capa de acceso",
+                                          "id": 20
+                                        }
+                                      }
+                                    }
+                                  }
+                                },
+                                "3": {
+                                  "title": "Capa Nucleo",
+                                  "id": 15,
+                                  "ideas": {
+                                    "1": {
+                                      "title": "Capa de backbone de alta velocidad entre redes finales dispersas",
+                                      "id": 18,
+                                      "ideas": {
+                                        "1": {
+                                          "title": "Routers de alta velocidad",
+                                          "id": 19
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "3": {
+                      "title": "Seguridad",
+                      "id": 9
+                    },
+                    "4": {
+                      "title": "Rendimiento",
+                      "id": 10
+                    }
+                  },
+                  "attr": {
+                    "style": {
+                      "background": "#E0E0E0"
+                    }
+                  }
+                },
+                "2": {
+                  "title": "Necesidad de contratar varios ISP diferentes en diferentes paises",
+                  "id": 25
+                }
+              }
+            },
+            "4": {
+              "title": "Practica",
+              "id": 23,
+              "ideas": {
+                "1": {
+                  "title": "1.1.2.4",
+                  "id": 24
+                }
+              }
+            },
+            "5": {
+              "title": "Questions",
+              "id": 27,
+              "ideas": {
+                "1": {
+                  "title": "Protocolo ARP",
+                  "id": 28
+                }
+              }
+            }
+          }
+        },
+        "2": {
+          "title": "Seguir por 1.2.2.3",
+          "id": 26
+        }
+      }
+    }
+  }
+}
