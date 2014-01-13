@@ -5,11 +5,49 @@
   "ideas": {
     "1": {
       "title": "Service Locator",
-      "id": 2
+      "id": 2,
+      "ideas": {
+        "1": {
+          "title": "Pulling the dependencies of a class from inside",
+          "id": 12,
+          "ideas": {
+            "1": {
+              "title": "Using the same service as an SL means pulling the dependencies of a class from inside that class. Some experts advise against the service locator pattern. However, in Zend Framework 2, the service locator pattern is commonly used, as you can pull services from inside the controllers with $this->serviceLocator->get(). https://coderwall.com/p/gj4bra",
+              "id": 13
+            }
+          }
+        }
+      }
     },
-    "2": {
-      "title": "Delegates",
-      "id": 4
+    "3": {
+      "title": "DIC",
+      "id": 8,
+      "ideas": {
+        "1": {
+          "title": "Creates dependencies from outside",
+          "id": 9,
+          "ideas": {
+            "1": {
+              "title": "Using such a service as a DiC means that the service injects the dependencies from outside into a class. In a pure DiC scenario, the DiC is used only during bootstrapping. It creates the controller class and injects its dependencies from outside, without being used in the controller (Register Resolve Release pattern). https://coderwall.com/p/gj4bra",
+              "id": 11
+            }
+          }
+        }
+      }
+    },
+    "4": {
+      "title": "To Read",
+      "id": 14,
+      "ideas": {
+        "1": {
+          "title": "Tell, Don't Ask http://adamcod.es/2013/11/22/tell-dont-ask.html",
+          "id": 15
+        },
+        "2": {
+          "title": "Service Locator vs Dependency Injection Container (or Tell, Don't Ask Part 2) http://adamcod.es/2013/11/25/service-locator-vs-dependency-injection-container.html",
+          "id": 16
+        }
+      }
     },
     "-1": {
       "title": "Events",
@@ -28,6 +66,10 @@
           "id": 7
         }
       }
+    },
+    "-0.5": {
+      "title": "Delegates",
+      "id": 4
     }
   }
 }
