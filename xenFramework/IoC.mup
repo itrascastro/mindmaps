@@ -50,6 +50,10 @@
         "3": {
           "title": "PHP dependency strategies: dependency injection and service locator http://www.davegardner.me.uk/blog/2009/11/23/php-dependency-strategies-dependency-injection-and-service-locator/",
           "id": 17
+        },
+        "4": {
+          "title": "Dependency Injection with Pimple http://www.sitepoint.com/dependency-injection-with-pimple/",
+          "id": 18
         }
       }
     },
