@@ -16,7 +16,7 @@
               "id": 22,
               "ideas": {
                 "1": {
-                  "title": "Diseño de la red",
+                  "title": "Network design",
                   "id": 6,
                   "ideas": {
                     "1": {
@@ -30,15 +30,15 @@
                       "ideas": {}
                     },
                     "2": {
-                      "title": "Optimización del uso del ancho de banda",
+                      "title": "Optimizacion del uso del ancho de banda",
                       "id": 8,
                       "ideas": {
                         "1": {
-                          "title": "Evitar que el tráfico se propague a partes innecesarias",
+                          "title": "Evitar que el trafico se propague a partes innecesarias",
                           "id": 11,
                           "ideas": {
                             "1": {
-                              "title": "Diseño jerarquico",
+                              "title": "Hierarchical Design",
                               "id": 12,
                               "ideas": {
                                 "1": {
@@ -66,7 +66,7 @@
                                       "id": 16,
                                       "ideas": {
                                         "1": {
-                                          "title": "Switches y Routers más eficaces que en la capa de acceso",
+                                          "title": "Switches y Routers mas eficaces que en la capa de acceso",
                                           "id": 20
                                         }
                                       }
