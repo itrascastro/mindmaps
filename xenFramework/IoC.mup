@@ -1,0 +1,33 @@
+{
+  "title": "IoC",
+  "id": 1,
+  "formatVersion": 2,
+  "ideas": {
+    "1": {
+      "title": "Service Locator",
+      "id": 2
+    },
+    "2": {
+      "title": "Delegates",
+      "id": 4
+    },
+    "-1": {
+      "title": "Events",
+      "id": 3
+    },
+    "-2": {
+      "title": "DI",
+      "id": 5,
+      "ideas": {
+        "1": {
+          "title": "Constructor Injection",
+          "id": 6
+        },
+        "2": {
+          "title": "Property Injection",
+          "id": 7
+        }
+      }
+    }
+  }
+}
