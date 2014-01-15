@@ -1,5 +1,5 @@
 {
-  "title": "CISCO DISCOVERY",
+  "title": "M07 2ASIX",
   "id": 1,
   "formatVersion": 2,
   "ideas": {
@@ -127,12 +127,7 @@
                 "2": {
                   "title": "1.2.2.3",
                   "id": 29,
-                  "ideas": {
-                    "1": {
-                      "title": "http://monicafransisca.blogspot.com.es/2010/12/lab-122-capturing-and-analyzing-network.html",
-                      "id": 30
-                    }
-                  }
+                  "ideas": {}
                 }
               }
             },
@@ -153,6 +148,45 @@
           "id": 26
         }
       }
+    },
+    "2": {
+      "title": "VIDEO TUTORIALES",
+      "id": 34,
+      "ideas": {
+        "1": {
+          "title": "Luis Perez https://www.youtube.com/user/lpguerrero?feature=watch",
+          "id": 35
+        },
+        "2": {
+          "title": "kalerolinex https://www.youtube.com/user/kalerolinex/search?query=interconexion+de+redes",
+          "id": 38
+        }
+      }
+    },
+    "-1": {
+      "title": "UF2",
+      "id": 31,
+      "ideas": {
+        "1": {
+          "title": "CISCO DISCOVERY",
+          "id": 32
+        },
+        "2": {
+          "title": "VIDEO TUTORIALES",
+          "id": 33,
+          "ideas": {
+            "1": {
+              "title": "Packet Tracer https://www.youtube.com/watch?v=A4zFFGaG9tY&list=PL52690EAE4EBD641C",
+              "id": 36
+            },
+            "2": {
+              "title": "Enrutamiento estatico https://www.youtube.com/watch?v=fuc3LIpUD1M",
+              "id": 37
+            }
+          }
+        }
+      }
     }
-  }
+  },
+  "links": []
 }
