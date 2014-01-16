@@ -29,7 +29,13 @@
           "ideas": {
             "1": {
               "title": "Using such a service as a DiC means that the service injects the dependencies from outside into a class. In a pure DiC scenario, the DiC is used only during bootstrapping. It creates the controller class and injects its dependencies from outside, without being used in the controller (Register Resolve Release pattern). https://coderwall.com/p/gj4bra",
-              "id": 11
+              "id": 11,
+              "ideas": {
+                "1": {
+                  "title": "RRR (Register Resolve Release pattern) http://blog.ploeh.dk/2010/09/29/TheRegisterResolveReleasepattern/",
+                  "id": 22
+                }
+              }
             }
           }
         },
