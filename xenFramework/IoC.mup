@@ -148,6 +148,26 @@
         }
       }
     },
+    "5": {
+      "title": "Video",
+      "id": 34,
+      "ideas": {
+        "1": {
+          "title": "DIC vs Service Locator http://youtu.be/PniFqdDJfCg",
+          "id": 35,
+          "attr": {
+            "style": {
+              "background": "#99cc00"
+            }
+          }
+        }
+      },
+      "attr": {
+        "style": {
+          "background": "#E0E0E0"
+        }
+      }
+    },
     "-1": {
       "title": "Events",
       "id": 3
