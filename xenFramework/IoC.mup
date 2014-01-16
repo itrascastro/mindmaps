@@ -98,7 +98,13 @@
       "ideas": {
         "1": {
           "title": "Constructor Injection",
-          "id": 6
+          "id": 6,
+          "ideas": {
+            "1": {
+              "title": "With references to abstract types or interfaces, rather than to concrete implementations",
+              "id": 24
+            }
+          }
         },
         "2": {
           "title": "Property Injection",
