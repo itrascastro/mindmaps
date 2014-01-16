@@ -116,6 +116,10 @@
         "5": {
           "title": "[*] DI Bootstrapping http://blog.efvincent.com/di-bootstrap/",
           "id": 30
+        },
+        "6": {
+          "title": "Controllers as services http://mnapoli.fr/controllers-as-services/",
+          "id": 32
         }
       }
     },
