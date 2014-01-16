@@ -46,6 +46,10 @@
             "1": {
               "title": "Pseudocode form stackoverflow http://stackoverflow.com/questions/16947427/php-dependency-injection-with-a-container",
               "id": 20
+            },
+            "2": {
+              "title": "Fabien Potencier http://www.slideshare.net/fabpot/dependency-injection-in-php-5354",
+              "id": 25
             }
           }
         },
