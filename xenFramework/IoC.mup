@@ -108,6 +108,10 @@
         "4": {
           "title": "Dependency Injection with Pimple http://www.sitepoint.com/dependency-injection-with-pimple/",
           "id": 18
+        },
+        "5": {
+          "title": "DI Bootstrapping http://blog.efvincent.com/di-bootstrap/",
+          "id": 30
         }
       }
     },
