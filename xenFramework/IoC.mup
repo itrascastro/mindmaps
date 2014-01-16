@@ -101,6 +101,11 @@
             }
           }
         }
+      },
+      "attr": {
+        "style": {
+          "background": "#E0E0E0"
+        }
       }
     },
     "4": {
@@ -124,12 +129,22 @@
           "id": 18
         },
         "5": {
-          "title": "[*] DI Bootstrapping http://blog.efvincent.com/di-bootstrap/",
-          "id": 30
+          "title": "DI Bootstrapping http://blog.efvincent.com/di-bootstrap/",
+          "id": 30,
+          "attr": {
+            "style": {
+              "background": "#99cc00"
+            }
+          }
         },
         "6": {
           "title": "Controllers as services http://mnapoli.fr/controllers-as-services/",
-          "id": 32
+          "id": 32,
+          "attr": {
+            "style": {
+              "background": "#99cc00"
+            }
+          }
         }
       }
     },
