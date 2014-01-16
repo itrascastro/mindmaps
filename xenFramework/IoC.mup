@@ -50,6 +50,25 @@
             "2": {
               "title": "Fabien Potencier http://www.slideshare.net/fabpot/dependency-injection-in-php-5354",
               "id": 25
+            },
+            "4": {
+              "title": "Dice",
+              "id": 27,
+              "ideas": {
+                "1": {
+                  "title": "Implementation https://github.com/TomBZombie/Dice/blob/master/dice.php",
+                  "id": 26,
+                  "attr": {
+                    "style": {
+                      "background": "#E0E0E0"
+                    }
+                  }
+                },
+                "0.5": {
+                  "title": "Doc http://r.je/dice.html",
+                  "id": 29
+                }
+              }
             }
           }
         },
