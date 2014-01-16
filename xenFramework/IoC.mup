@@ -160,6 +160,25 @@
               "background": "#99cc00"
             }
           }
+        },
+        "2": {
+          "title": "IOC http://youtu.be/l0Zz-sXzsJk",
+          "id": 36,
+          "attr": {
+            "style": {
+              "background": "#99cc00"
+            }
+          },
+          "ideas": {
+            "1": {
+              "title": "GitHub https://github.com/neraath/ioc-php-talk",
+              "id": 37
+            },
+            "2": {
+              "title": "Slideshare http://www.slideshare.net/neraath/ioc-with-php-8833643",
+              "id": 38
+            }
+          }
         }
       },
       "attr": {
