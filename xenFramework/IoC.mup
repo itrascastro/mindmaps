@@ -166,7 +166,7 @@
           "id": 36,
           "attr": {
             "style": {
-              "background": "#99cc00"
+              "background": "transparent"
             }
           },
           "ideas": {
@@ -209,19 +209,35 @@
       "title": "DI",
       "id": 5,
       "ideas": {
-        "1": {
-          "title": "Constructor Injection",
-          "id": 6,
+        "3": {
+          "title": "Everything has to depend on Abstractions, i.e. Interfaces",
+          "id": 42,
           "ideas": {
             "1": {
-              "title": "With references to abstract types or interfaces, rather than to concrete implementations",
-              "id": 24
+              "title": "Constructor Injection",
+              "id": 6,
+              "ideas": {
+                "1": {
+                  "title": "With references to abstract types or interfaces, rather than to concrete implementations",
+                  "id": 24
+                }
+              },
+              "attr": {
+                "style": {
+                  "background": "#E0E0E0"
+                }
+              }
+            },
+            "2": {
+              "title": "Settter o method Injection",
+              "id": 7,
+              "attr": {
+                "style": {
+                  "background": "#E0E0E0"
+                }
+              }
             }
           }
-        },
-        "2": {
-          "title": "Property Injection",
-          "id": 7
         }
       }
     },
