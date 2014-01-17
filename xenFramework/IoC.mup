@@ -78,7 +78,12 @@
                   "background": "#99cc00"
                 }
               },
-              "ideas": {}
+              "ideas": {
+                "1": {
+                  "title": "CODE https://github.com/krasimir/php-dependency-injection",
+                  "id": 43
+                }
+              }
             },
             "6": {
               "title": "DIC and MVC http://stackoverflow.com/questions/19459216/di-container-and-the-tailored-mvc",
