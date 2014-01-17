@@ -177,6 +177,20 @@
             "2": {
               "title": "Slideshare http://www.slideshare.net/neraath/ioc-with-php-8833643",
               "id": 38
+            },
+            "3": {
+              "title": "Notes",
+              "id": 39,
+              "ideas": {
+                "1": {
+                  "title": "It is a Service Locator (Anti Pattern)",
+                  "id": 40
+                },
+                "2": {
+                  "title": "Anyway it introduces very well DIC",
+                  "id": 41
+                }
+              }
             }
           }
         }
