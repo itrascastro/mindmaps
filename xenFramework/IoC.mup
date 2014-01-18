@@ -16,6 +16,10 @@
               "id": 13
             }
           }
+        },
+        "2": {
+          "title": "Anti Pattern",
+          "id": 45
         }
       }
     },
@@ -194,7 +198,8 @@
                 },
                 "2": {
                   "title": "Anyway it introduces very well DIC",
-                  "id": 41
+                  "id": 41,
+                  "ideas": {}
                 }
               }
             }
